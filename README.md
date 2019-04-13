@@ -1,4 +1,4 @@
-## FlowBlaze (Open Packet Processor) module for VALE (mSwitch) with long-lived flow detector
+## FlowBlaze (Open Packet Processor) module for VALE (mSwitch) software switch with long-lived flow detector
 
 These code are mostly educational purpose but useful to understand FlowBlaze (Open Packet
 Processor) with code.
